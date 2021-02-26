@@ -1,0 +1,3 @@
+li[charm=padlock]:before {
+	content: '<i class="material-icons">lock_outline</i>';
+}

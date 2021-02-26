@@ -1,0 +1,10 @@
+@import "color.css";
+@import "toolbar.css";
+
+.material-icons {
+	font-size: 16px;
+	vertical-align: middle;
+}
+div.container {
+	width: calc(90% - 150px);
+}

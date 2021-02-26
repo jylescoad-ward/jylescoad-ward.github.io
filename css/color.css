@@ -1,0 +1,16 @@
+@import url("https://jylescoad-ward.github.io/shared_assets/css/colorscheme/palette.css");
+body {
+	background-color: var(--PAL_GRAY-900);
+	color: var(--PAL_WHITE);
+}
+div.toolbar {
+	background-color: var(--PAL_GRAY-800);
+	color: var(--PAL_GRAY-100);
+	box-shadow: 0 0 3px var(--PAL_GRAY-800);
+}
+div.toolbar a {
+	color: var(--PAL_WHITE);
+}
+a {
+	color: var(--PAL_BLUE-A200);
+}

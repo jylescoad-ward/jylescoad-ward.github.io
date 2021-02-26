@@ -1,0 +1,16 @@
+div.toolbar {
+	--borderRadius: 4px;
+	position: fixed;
+	top: 15px;
+	right: 0;
+	width: 150px;
+	border-bottom-left-radius: var(--borderRadius);
+	border-top-left-radius: var(--borderRadius);
+	z-index: 1;
+}
+div.toolbar ul {
+	list-style-position: outside;
+	list-style: none;
+	text-align: right;
+	padding: 2px 5px;
+}
